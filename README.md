@@ -1,6 +1,12 @@
 # Turbo C++ Program Collection
 
-A curated collection of 222 C++ source files gathered from the `BIN` folder of a Turbo C++ installation. Programs are grouped by their apparent subject to make the collection easier to browse. Original source filenames and contents are preserved.
+A curated collection of 222 foundational C++ practice programs, gathered from the `BIN` folder of a Turbo C++ installation. The examples are organized by topic to help learners strengthen core programming concepts, from basic expressions and control flow to arrays, functions, pointers, classes, and algorithms. Original source filenames and contents are preserved.
+
+## Build your C++ foundation
+
+Use these programs as small, focused examples for learning and revision. Start with fundamentals and operators, then work through conditionals and loops. Continue with arrays, strings, and functions before moving on to pointers, object-oriented programming, file handling, and data structures.
+
+For each example, read the source, trace how values change, and try a small modification of your own. Comparing related programs can help show how different C++ concepts solve similar problems.
 
 ## Topics
 
